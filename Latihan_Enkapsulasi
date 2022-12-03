@@ -1,0 +1,17 @@
+public class Latihan_Enkapsulasi {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+         Nilai N =new  Nilai();
+         N. setNilaipraktek(100);
+         N. setNilaiteori(80);
+         
+         System.out.println("Nilai_praktek:"+ N.getNilaipraktek());
+         System.out.println("Nilai_teori: "+ N.getNilaiteori());
+         System.out.println("Nilai_akhir= " +N.getNa());
+        
+    }
+    
