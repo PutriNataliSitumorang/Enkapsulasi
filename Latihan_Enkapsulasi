@@ -1,3 +1,12 @@
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package latihan_enkapsulasi;
+
+/**
+ *
+ * @author TOSHIBA
+ */
 public class Latihan_Enkapsulasi {
 
     /**
@@ -13,5 +22,3 @@ public class Latihan_Enkapsulasi {
          System.out.println("Nilai_teori: "+ N.getNilaiteori());
          System.out.println("Nilai_akhir= " +N.getNa());
         
-    }
-    
