@@ -1,16 +1,16 @@
  
-  Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+  /*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package latihan_enkapsulasi;
 
 /**
  *
  * @author TOSHIBA
  */
-public class Latihan_Enkapsulasi {
- 
- private int Nilaipraktek;
+public class Nilai {
+    
+    private int Nilaipraktek;
     private int Nilaiteori;
     
     
@@ -44,3 +44,7 @@ public class Latihan_Enkapsulasi {
     
     public int Nilaiakhir(int Nilai_praktek,int Nilai_teori){
         return Nilaipraktek+Nilaiteori/2;
+         }
+    
+}
+
